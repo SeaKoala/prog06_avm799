@@ -1,0 +1,281 @@
+Alec: HAND: Kc, As, 3d, 6h, Qs, 
+Alec: BOOKS: 1
+Jacob: HAND: Ks, 4h, Jc, Ac, 3s, 5d, 10h, 
+Jacob: BOOKS: 0
+----------------------------------START GAME 
+Alec: Do you have any A's
+Jacob gave a 1
+Alec: HAND: Kc, 3d, 6h, Qs, 
+Alec: BOOKS: 2
+----------------------------------GO AGAIN 
+Alec: Do you have any 6's
+Jacob: Go Fish!
+Alec: Drew a 2h
+Alec: HAND: Kc, 3d, 6h, Qs, 2h, 
+Alec: BOOKS: 2
+----------------------------------END TURN 
+Jacob: Do you have any K's
+Alec gave a 13
+Jacob: HAND: 4h, Jc, 3s, 5d, 10h, 
+Jacob: BOOKS: 1
+----------------------------------GO AGAIN 
+Jacob: Do you have any 5's
+Alec: Go Fish!
+Jacob: Drew a Jh
+Jacob: HAND: 4h, 3s, 5d, 10h, 
+Jacob: BOOKS: 2
+----------------------------------END TURN 
+Alec: Do you have any Q's
+Jacob: Go Fish!
+Alec: Drew a 8h
+Alec: HAND: 3d, 6h, Qs, 2h, 8h, 
+Alec: BOOKS: 2
+----------------------------------END TURN 
+Jacob: Do you have any 3's
+Alec gave a 3
+Jacob: HAND: 4h, 5d, 10h, 
+Jacob: BOOKS: 3
+----------------------------------GO AGAIN 
+Jacob: Do you have any 10's
+Alec: Go Fish!
+Jacob: Drew a 2d
+Jacob: HAND: 4h, 5d, 10h, 2d, 
+Jacob: BOOKS: 3
+----------------------------------END TURN 
+Alec: Do you have any 6's
+Jacob: Go Fish!
+Alec: Drew a 2s
+Alec: HAND: 6h, Qs, 8h, 
+Alec: BOOKS: 3
+----------------------------------END TURN 
+Jacob: Do you have any 10's
+Alec: Go Fish!
+Jacob: Drew a Js
+Jacob: HAND: 4h, 5d, 10h, 2d, Js, 
+Jacob: BOOKS: 3
+----------------------------------END TURN 
+Alec: Do you have any Q's
+Jacob: Go Fish!
+Alec: Drew a 2c
+Alec: HAND: 6h, Qs, 8h, 2c, 
+Alec: BOOKS: 3
+----------------------------------END TURN 
+Jacob: Do you have any 10's
+Alec: Go Fish!
+Jacob: Drew a 8c
+Jacob: HAND: 4h, 5d, 10h, 2d, Js, 8c, 
+Jacob: BOOKS: 3
+----------------------------------END TURN 
+Alec: Do you have any 6's
+Jacob: Go Fish!
+Alec: Drew a 9h
+Alec: HAND: 6h, Qs, 8h, 2c, 9h, 
+Alec: BOOKS: 3
+----------------------------------END TURN 
+Jacob: Do you have any J's
+Alec: Go Fish!
+Jacob: Drew a 3h
+Jacob: HAND: 4h, 5d, 10h, 2d, Js, 8c, 3h, 
+Jacob: BOOKS: 3
+----------------------------------END TURN 
+Alec: Do you have any 8's
+Jacob gave a 8
+Alec: HAND: 6h, Qs, 2c, 9h, 
+Alec: BOOKS: 4
+----------------------------------GO AGAIN 
+Alec: Do you have any 6's
+Jacob: Go Fish!
+Alec: Drew a 8s
+Alec: HAND: 6h, Qs, 2c, 9h, 8s, 
+Alec: BOOKS: 4
+----------------------------------END TURN 
+Jacob: Do you have any 4's
+Alec: Go Fish!
+Jacob: Drew a 10s
+Jacob: HAND: 4h, 5d, 2d, Js, 3h, 
+Jacob: BOOKS: 4
+----------------------------------END TURN 
+Alec: Do you have any 9's
+Jacob: Go Fish!
+Alec: Drew a Kd
+Alec: HAND: 6h, Qs, 2c, 9h, 8s, Kd, 
+Alec: BOOKS: 4
+----------------------------------END TURN 
+Jacob: Do you have any 4's
+Alec: Go Fish!
+Jacob: Drew a 9d
+Jacob: HAND: 4h, 5d, 2d, Js, 3h, 9d, 
+Jacob: BOOKS: 4
+----------------------------------END TURN 
+Alec: Do you have any 8's
+Jacob: Go Fish!
+Alec: Drew a Qd
+Alec: HAND: 6h, 2c, 9h, 8s, Kd, 
+Alec: BOOKS: 5
+----------------------------------END TURN 
+Jacob: Do you have any 5's
+Alec: Go Fish!
+Jacob: Drew a 9s
+Jacob: HAND: 4h, 5d, 2d, Js, 3h, 
+Jacob: BOOKS: 5
+----------------------------------END TURN 
+Alec: Do you have any 8's
+Jacob: Go Fish!
+Alec: Drew a 7d
+Alec: HAND: 6h, 2c, 9h, 8s, Kd, 7d, 
+Alec: BOOKS: 5
+----------------------------------END TURN 
+Jacob: Do you have any J's
+Alec: Go Fish!
+Jacob: Drew a 6s
+Jacob: HAND: 4h, 5d, 2d, Js, 3h, 6s, 
+Jacob: BOOKS: 5
+----------------------------------END TURN 
+Alec: Do you have any 8's
+Jacob: Go Fish!
+Alec: Drew a 5h
+Alec: HAND: 6h, 2c, 9h, 8s, Kd, 7d, 5h, 
+Alec: BOOKS: 5
+----------------------------------END TURN 
+Jacob: Do you have any 4's
+Alec: Go Fish!
+Jacob: Drew a 5c
+Jacob: HAND: 4h, 2d, Js, 3h, 6s, 
+Jacob: BOOKS: 6
+----------------------------------END TURN 
+Alec: Do you have any 2's
+Jacob gave a 2
+Alec: HAND: 6h, 9h, 8s, Kd, 7d, 5h, 
+Alec: BOOKS: 6
+----------------------------------GO AGAIN 
+Alec: Do you have any 6's
+Jacob gave a 6
+Alec: HAND: 9h, 8s, Kd, 7d, 5h, 
+Alec: BOOKS: 7
+----------------------------------GO AGAIN 
+Alec: Do you have any 7's
+Jacob: Go Fish!
+Alec: Drew a 6c
+Alec: HAND: 9h, 8s, Kd, 7d, 5h, 6c, 
+Alec: BOOKS: 7
+----------------------------------END TURN 
+Jacob: Do you have any J's
+Alec: Go Fish!
+Jacob: Drew a Jd
+Jacob: HAND: 4h, 3h, 
+Jacob: BOOKS: 7
+----------------------------------END TURN 
+Alec: Do you have any K's
+Jacob: Go Fish!
+Alec: Drew a 7c
+Alec: HAND: 9h, 8s, Kd, 5h, 6c, 
+Alec: BOOKS: 8
+----------------------------------END TURN 
+Jacob: Do you have any 4's
+Alec: Go Fish!
+Jacob: Drew a 4c
+Jacob: HAND: 3h, 
+Jacob: BOOKS: 8
+----------------------------------END TURN 
+Alec: Do you have any K's
+Jacob: Go Fish!
+Alec: Drew a 4d
+Alec: HAND: 9h, 8s, Kd, 5h, 6c, 4d, 
+Alec: BOOKS: 8
+----------------------------------END TURN 
+Jacob: Do you have any 3's
+Alec: Go Fish!
+Jacob: Drew a 5s
+Jacob: HAND: 3h, 5s, 
+Jacob: BOOKS: 8
+----------------------------------END TURN 
+Alec: Do you have any 5's
+Jacob gave a 5
+Alec: HAND: 9h, 8s, Kd, 6c, 4d, 
+Alec: BOOKS: 9
+----------------------------------GO AGAIN 
+Alec: Do you have any 6's
+Jacob: Go Fish!
+Alec: Drew a 10c
+Alec: HAND: 9h, 8s, Kd, 6c, 4d, 10c, 
+Alec: BOOKS: 9
+----------------------------------END TURN 
+Jacob: Do you have any 3's
+Alec: Go Fish!
+Jacob: Drew a 3c
+Jacob: HAND: 
+Jacob: BOOKS: 9
+----------------------------------END TURN 
+Alec: Do you have any 8's
+Jacob: Go Fish!
+Alec: Drew a 8d
+Alec: HAND: 9h, Kd, 6c, 4d, 10c, 
+Alec: BOOKS: 10
+----------------------------------END TURN 
+Jacob: Drew a 7h
+Jacob: HAND: 7h, 
+Jacob: BOOKS: 9
+----------------------------------END TURN 
+Alec: Do you have any 10's
+Jacob: Go Fish!
+Alec: Drew a 10d
+Alec: HAND: 9h, Kd, 6c, 4d, 
+Alec: BOOKS: 11
+----------------------------------END TURN 
+Jacob: Do you have any 7's
+Alec: Go Fish!
+Jacob: Drew a 4s
+Jacob: HAND: 7h, 4s, 
+Jacob: BOOKS: 9
+----------------------------------END TURN 
+Alec: Do you have any 4's
+Jacob gave a 4
+Alec: HAND: 9h, Kd, 6c, 
+Alec: BOOKS: 12
+----------------------------------GO AGAIN 
+Alec: Do you have any K's
+Jacob: Go Fish!
+Alec: Drew a 9c
+Alec: HAND: Kd, 6c, 
+Alec: BOOKS: 13
+----------------------------------END TURN 
+Jacob: Do you have any 7's
+Alec: Go Fish!
+Jacob: Drew a 7s
+Jacob: HAND: 
+Jacob: BOOKS: 10
+----------------------------------END TURN 
+Alec: Do you have any K's
+Jacob: Go Fish!
+Alec: Drew a Ah
+Alec: HAND: Kd, 6c, Ah, 
+Alec: BOOKS: 13
+----------------------------------END TURN 
+Jacob: Drew a Kh
+Jacob: HAND: Kh, 
+Jacob: BOOKS: 10
+----------------------------------END TURN 
+Alec: Do you have any K's
+Jacob gave a 13
+Alec: HAND: 6c, Ah, 
+Alec: BOOKS: 14
+----------------------------------GO AGAIN 
+Alec: Do you have any 6's
+Jacob: Go Fish!
+Alec: Drew a Ad
+Alec: HAND: 6c, 
+Alec: BOOKS: 15
+----------------------------------END TURN 
+Jacob: Drew a 6d
+Jacob: HAND: 6d, 
+Jacob: BOOKS: 10
+----------------------------------END TURN 
+Alec: Do you have any 6's
+Jacob gave a 6
+Alec: HAND: 
+Alec: BOOKS: 16
+----------------------------------GO AGAIN 
+----------------------------------GAME OVER 
+Alec: BOOKS: 16
+Jacob: BOOKS: 10
+Alec WINS!!

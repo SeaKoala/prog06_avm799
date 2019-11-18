@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug"/>
+				<Option working_dir="C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="prog06_avm799">
-				<Option output="C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/prog06_avm799.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug"/>
+				<Option output="C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/prog06_avm799.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -32,15 +32,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 prog06_avm799"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 prog06_avm799"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="prog06_avm799/fast">
-				<Option output="C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/prog06_avm799.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug"/>
+				<Option output="C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/prog06_avm799.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,55 +53,55 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 prog06_avm799/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 prog06_avm799/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug"/>
+				<Option working_dir="C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug"/>
+				<Option working_dir="C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/aknk0/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/SeaKoala/Documents/College/312/prog06_avm799/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/aknk0/Documents/College/312/prog06_avm799/card.cpp">
+		<Unit filename="C:/Users/SeaKoala/Documents/College/312/prog06_avm799/card.cpp">
 			<Option target="prog06_avm799"/>
 		</Unit>
-		<Unit filename="C:/Users/aknk0/Documents/College/312/prog06_avm799/card.h">
+		<Unit filename="C:/Users/SeaKoala/Documents/College/312/prog06_avm799/card.h">
 			<Option target="prog06_avm799"/>
 		</Unit>
-		<Unit filename="C:/Users/aknk0/Documents/College/312/prog06_avm799/card_demo.cpp">
+		<Unit filename="C:/Users/SeaKoala/Documents/College/312/prog06_avm799/deck.cpp">
 			<Option target="prog06_avm799"/>
 		</Unit>
-		<Unit filename="C:/Users/aknk0/Documents/College/312/prog06_avm799/deck.cpp">
+		<Unit filename="C:/Users/SeaKoala/Documents/College/312/prog06_avm799/deck.h">
 			<Option target="prog06_avm799"/>
 		</Unit>
-		<Unit filename="C:/Users/aknk0/Documents/College/312/prog06_avm799/deck.h">
+		<Unit filename="C:/Users/SeaKoala/Documents/College/312/prog06_avm799/go_fish.cpp">
 			<Option target="prog06_avm799"/>
 		</Unit>
-		<Unit filename="C:/Users/aknk0/Documents/College/312/prog06_avm799/player.cpp">
+		<Unit filename="C:/Users/SeaKoala/Documents/College/312/prog06_avm799/player.cpp">
 			<Option target="prog06_avm799"/>
 		</Unit>
-		<Unit filename="C:/Users/aknk0/Documents/College/312/prog06_avm799/player.h">
+		<Unit filename="C:/Users/SeaKoala/Documents/College/312/prog06_avm799/player.h">
 			<Option target="prog06_avm799"/>
 		</Unit>
-		<Unit filename="C:/Users/aknk0/Documents/College/312/prog06_avm799/CMakeLists.txt">
+		<Unit filename="C:/Users/SeaKoala/Documents/College/312/prog06_avm799/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

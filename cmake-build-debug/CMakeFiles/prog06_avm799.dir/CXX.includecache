@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SeaKoala/Documents/College/312/prog06_avm799/card.cpp
+card.h
+C:/Users/SeaKoala/Documents/College/312/prog06_avm799/card.h
+cstdlib
+-
+
+C:/Users/SeaKoala/Documents/College/312/prog06_avm799/card.h
+iostream
+-
+string
+-
+
